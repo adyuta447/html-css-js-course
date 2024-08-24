@@ -1,0 +1,15 @@
+{
+  "index": "Introduction",
+  "requirement-tools": "Requirement Tools",
+  "pengenalan-html": "Pengenalan HTML",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://x.com/Kooceng_Peduli",
+    "newWindow": true
+  }
+}
