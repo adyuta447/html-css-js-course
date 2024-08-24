@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
   "requirement-tools": "Requirement Tools",
-  "pengenalan-html": "Pengenalan HTML",
+  "01-pengenalan-html": "Pengenalan HTML",
+  "02-pendalaman-html": "Pendalaman HTML",
   "about": {
     "title": "About",
     "type": "page"
